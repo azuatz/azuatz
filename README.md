@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Pedro Tomborelli Scaburi
 
-<!--
-**azuatz/azuatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação
 
-Here are some ideas to get you started:
+- **Engenharia de Software - Unifil** (2025 - em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Conhecimento Técnico
+
+- 🧠 **Lógica de Programação**
+- ☕ **Java:** Básico
+- 🔹 **C:** Básico
+- 🔧 **Git:** Básico
+
+## 📫 Contato
+
+- ✉️ **E-mail:** pedroscaburi@gmail.com
+- 🔗 **GitHub:** [azuatz](https://github.com/azuatz)
