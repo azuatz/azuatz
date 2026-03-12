@@ -17,4 +17,4 @@
 
 - ✉️ **E-mail:** pedroscaburi@gmail.com
 - 🔗 **GitHub:** [azuatz](https://github.com/azuatz)
-- 🔗 **LinkedIn:** [Pedro Scaburi](www.linkedin.com/in/pedroscaburi)
+- 🔗 **LinkedIn:** [Pedro Scaburi]([www.linkedin.com/in/pedroscaburi](https://www.linkedin.com/in/pedro-scaburi-ab3a953b6/))
