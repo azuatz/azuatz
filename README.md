@@ -2,7 +2,8 @@
 
 ## 🎓 Formação
 
-- **Engenharia de Software - Unifil** (2025 - em andamento)
+- **Engenharia da Computação - UTFPR** (2025 - 2025)
+- **Engenharia de Software - Unifil** (2025 - 2026)
 
 ## 💻 Conhecimento Técnico
 
